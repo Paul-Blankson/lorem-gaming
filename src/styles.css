@@ -43,3 +43,30 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.custom__btn {
+  width: 123px;
+  border-radius: 8px;
+  padding: 14px 24px 16px 25px;
+  border: none;
+  background-color: var(--color-denim);
+  color: var(--color-multi-step-background);
+  font-family: Ubuntu;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.1 487rem;
+  text-align: left;
+  cursor: pointer;
+}
+
+.transparent__btn {
+  font-family: Ubuntu;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 18.38px;
+  text-align: left;
+  background-color: transparent;
+  color:  #9699AA;
+  border: none;
+  cursor: pointer;
+}
